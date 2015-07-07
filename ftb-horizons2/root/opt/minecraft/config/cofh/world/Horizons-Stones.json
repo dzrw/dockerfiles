@@ -1,0 +1,121 @@
+{
+    "Andesite": {
+        "template": "uniform",
+        "block": "chisel:andesite",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Diorite": {
+        "template": "uniform",
+        "block": "chisel:diorite",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Granite": {
+        "template": "uniform",
+        "block": "chisel:granite",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Limestone": {
+        "template": "uniform",
+        "block": "chisel:limestone",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Cobblestone": {
+        "template": "uniform",
+        "block": "minecraft:cobblestone",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Clay": {
+        "template": "uniform",
+        "block": "minecraft:clay",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

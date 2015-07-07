@@ -1,0 +1,2329 @@
+[
+  {
+    "wrappedStack": {
+      "type": "fluidstack",
+      "stackSize": 1,
+      "objectData": {
+        "fluidName": "water",
+        "amount": 1
+      }
+    },
+    "energyValue": {
+      "value": 0.001
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "fluidstack",
+      "stackSize": 1,
+      "objectData": {
+        "fluidName": "lava",
+        "amount": 1
+      }
+    },
+    "energyValue": {
+      "value": 0.064
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "fluidstack",
+      "stackSize": 1,
+      "objectData": {
+        "fluidName": "milk",
+        "amount": 1
+      }
+    },
+    "energyValue": {
+      "value": 0.064
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "cobblestone",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dustRedstone",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeBlack",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeBlue",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeBrown",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeCyan",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeGray",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeGreen",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeLightBlue",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeLightGray",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeLime",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeMagenta",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeOrange",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyePink",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyePurple",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeRed",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeWhite",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "dyeYellow",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "gemDiamond",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "gemEmerald",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "gemLapis",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 864.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "gemQuartz",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "ingotGold",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "ingotIron",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "logWood",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreCoal",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreDiamond",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreEmerald",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreGold",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreIron",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreLapis",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 864.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreQuartz",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "oreRedstone",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "plankWood",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 8.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "record",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "sand",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "sandstone",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "slabWood",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "stairWood",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 12.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "stickWood",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "stone",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "treeLeaves",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "orestack",
+      "stackSize": 1,
+      "objectData": {
+        "oreName": "treeSapling",
+        "stackSize": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:stone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:grass",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dirt",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cobblestone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:sand",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:gravel",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:glass",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:sandstone",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:web",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 12.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:tallgrass",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:deadbush",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:yellow_flower",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:red_flower",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:brown_mushroom",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:red_mushroom",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:mossy_cobblestone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:obsidian",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:snow_layer",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 0.125
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:ice",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cactus",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:pumpkin",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 144.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:netherrack",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:soul_sand",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 49.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:stonebrick",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:vine",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:mycelium",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:waterlily",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:end_stone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:anvil",
+        "itemDamage": 1
+      }
+    },
+    "energyValue": {
+      "value": 5290.667
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:anvil",
+        "itemDamage": 2
+      }
+    },
+    "energyValue": {
+      "value": 2645.333
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:tile.OreQuartz",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:tile.OreQuartzCharged",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:hardened_clay",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:double_plant",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:tile.BlockSkyStone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:apple",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:coal",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:coal",
+        "itemDamage": 1
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:diamond",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:iron_ingot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:gold_ingot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:string",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 12.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:feather",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 48.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:gunpowder",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:wheat_seeds",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:wheat",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:flint",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 4.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:porkchop",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cooked_porkchop",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:saddle",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:redstone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:snowball",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 0.25
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:leather",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:brick",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:clay_ball",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:reeds",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:slime_ball",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:egg",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 32.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:glowstone_dust",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 384.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:fish",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cooked_fished",
+        "itemDamage": 32767
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 2
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 3
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 4
+      }
+    },
+    "energyValue": {
+      "value": 864.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 5
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:dye",
+        "itemDamage": 6
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:bone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 48.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:melon",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:beef",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cooked_beef",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:chicken",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:cooked_chicken",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:rotten_flesh",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:ender_pearl",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1024.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:blaze_rod",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1536.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:ghast_tear",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 4096.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:nether_wart",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:spider_eye",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 128.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:emerald",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:carrot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:potato",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:baked_potato",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:poisonous_potato",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:nether_star",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 24576.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:netherbrick",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "minecraft:quartz",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 1
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 2
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 3
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 4
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 5
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 6
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 7
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 8
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 9
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 10
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 11
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 12
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 13
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 14
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:flower",
+        "itemDamage": 15
+      }
+    },
+    "energyValue": {
+      "value": 16.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "Botania:stone",
+        "itemDamage": 3
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "chisel:andesite",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "chisel:diorite",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "chisel:limestone",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "chisel:marble",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "bluepower:basalt",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:item.ItemCreativeStorageCell",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1725.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:item.ItemMultiMaterial",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:item.ItemMultiMaterial",
+        "itemDamage": 1
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:item.ItemMultiMaterial",
+        "itemDamage": 6
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "appliedenergistics2:item.ItemMultiMaterial",
+        "itemDamage": 47
+      }
+    },
+    "energyValue": {
+      "value": 256000.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 64
+      }
+    },
+    "energyValue": {
+      "value": 128.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 65
+      }
+    },
+    "energyValue": {
+      "value": 128.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 66
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 67
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 68
+      }
+    },
+    "energyValue": {
+      "value": 512.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "ThermalFoundation:material",
+        "itemDamage": 69
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "BigReactors:BRIngot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "EE3:alchemicalDust",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 1.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "EE3:alchemicalDust",
+        "itemDamage": 1
+      }
+    },
+    "energyValue": {
+      "value": 64.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "EE3:alchemicalDust",
+        "itemDamage": 2
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "EE3:alchemicalDust",
+        "itemDamage": 3
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "EE3:shardMinium",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "GalacticraftCore:item.basicItem",
+        "itemDamage": 5
+      }
+    },
+    "energyValue": {
+      "value": 128.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "mo:dilithium_crystal",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 8192.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "mo:tritanium_ingot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 256.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "bluepower:amethyst_gem",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "bluepower:sapphire_gem",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "bluepower:ruby_gem",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 2048.0
+    }
+  },
+  {
+    "wrappedStack": {
+      "type": "itemstack",
+      "stackSize": 1,
+      "objectData": {
+        "itemName": "bluepower:zinc_ingot",
+        "itemDamage": 0
+      }
+    },
+    "energyValue": {
+      "value": 128.0
+    }
+  }
+]

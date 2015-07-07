@@ -1,0 +1,205 @@
+{
+	"Tritanium": {
+        "template": "uniform",
+        "block": "mo:tritanium_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 24,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Aluminium": {
+        "template": "uniform",
+        "block": {"name": "GalacticraftCore:tile.gcBlockCore", "metadata": 7},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 20,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Amethyst": {
+        "template": "uniform",
+        "block": "bluepower:amethyst_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Ruby": {
+        "template": "uniform",
+        "block": "bluepower:ruby_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "Sapphire": {
+        "template": "uniform",
+        "block": "bluepower:sapphire_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Dilithium": {
+        "template": "uniform",
+        "block": "mo:dilithium_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 1,
+        "minHeight": 0,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Teslatite": {
+        "template": "uniform",
+        "block": "bluepower:teslatite_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Colorful": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": [
+            {"name": "essentialcraft:oreDrops", "metadata": 4, "weight": 20},
+			{"name": "essentialcraft:oreDrops", "metadata": 3, "weight": 20},
+			{"name": "essentialcraft:oreDrops", "metadata": 2, "weight": 20},
+			{"name": "essentialcraft:oreDrops", "metadata": 1, "weight": 20},
+			{"name": "essentialcraft:oreDrops", "metadata": 0, "weight": 20}
+        ],
+        "clusterSize": 32,
+        "numClusters": 1,
+        "minHeight": 20,
+		"chunkchance": 4,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"SlightlyLessColorful": {
+        "template": "uniform",
+        "generator": "sparse-cluster",
+        "block": [
+			{"name": "essentialcraft:oreDrops", "metadata": 0, "weight": 20}
+        ],
+        "clusterSize": 8,
+        "numClusters": 3,
+        "minHeight": 20,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Silicon": {
+        "template": "normal",
+        "block": {"name": "GalacticraftCore:tile.gcBlockCore", "metadata": 8},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 15,
+        "meanHeight": 30,
+        "maxVariance": 16,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"Zinc": {
+        "template": "uniform",
+        "block": "bluepower:zinc_ore",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 40,
+        "maxHeight": 75,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+	
+}

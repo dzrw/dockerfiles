@@ -1,0 +1,16 @@
+<ConfigSection>
+    <ConfigSection>
+        
+        
+            <Substitute name='StonifyEverything' block='erebus:umberstone' minHeight='1' maxHeight='254'>
+                <Replaces block='erebus:oreIron' />
+                <Replaces block='erebus:oreCoal' />
+                <Replaces block='erebus:oreLapis' />
+                <Replaces block='erebus:oreDiamond' />
+				<Replaces block='erebus:oreEmerald' />
+				<Replaces block='erebus:oreEncrustedDiamond' />
+            </Substitute>
+      
+            
+    </ConfigSection>
+</ConfigSection>

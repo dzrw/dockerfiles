@@ -1,0 +1,52 @@
+{
+  "all": {
+    "ore_dictionary": [
+      "oreIron",
+      "oreGold",
+      "oreCoal",
+      "oreRedstone",
+      "oreLapis",
+      "oreDiamond",
+      "oreEmerald",
+      "oreQuartz",
+      "oreTin",
+      "oreCopper",
+      "oreUranium",
+      "oreNickel",
+      "oreLead",
+      "oreSilver",
+      "oreRuby",
+      "oreSapphire",
+      "oreAluminum",
+      "oreFzDarkIron"
+    ],
+    "registry_name": [
+      "experience_bottle"
+    ]
+  },
+  "targets": {
+    "ore_dictionary": [],
+    "registry_name": [
+      "nether_star",
+      "enchanted_book"
+    ]
+  },
+  "fuels": {
+    "ore_dictionary": [
+      "cobblestone",
+      "stone",
+      "foodSalt"
+    ],
+    "registry_name": []
+  },
+  "example": {
+    "ore_dictionary": [
+      "oreName"
+    ],
+    "registry_name": [
+      "itemNoDamage",
+      "itemWithDamage@3",
+      "itemAnyDamage@-1"
+    ]
+  }
+}

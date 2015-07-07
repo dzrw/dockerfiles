@@ -1,0 +1,9 @@
+#! /bin/bash
+
+# ensure that the service user can write logs, configs, etc.
+chown -R ftb:ftb $MINECRAFT_HOME
+
+cd $MINECRAFT_HOME
+echo "Running Minecraft"
+echo "MINECRAFT_OPTS: $MINECRAFT_OPTS"
+exec gosu ftb java $MINECRAFT_OPTS -jar $MINECRAFT_STARTUP_JAR nogui
