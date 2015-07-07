@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/sh
 
 # ensure that the service user can write logs, configs, etc.
 chown -R ftb:ftb $MINECRAFT_HOME
