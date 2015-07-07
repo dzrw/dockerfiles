@@ -48,9 +48,10 @@ ENV MINECRAFT_STARTUP_JAR FTBServer-1.7.10-1448.jar
 
 EXPOSE 25565
 
-VOLUME ["/var/lib/minecraft"]
+VOLUME ["/opt/minecraft", "/var/lib/minecraft"]
 
-#CMD ["/usr/local/bin/minecraft"]
-ENTRYPOINT ["sh"]
+ENTRYPOINT ["/bin/sh -c"]
+
+CMD ["/usr/local/bin/minecraft"]
 
 
