@@ -40,15 +40,11 @@ RUN		cd /tmp \
 COPY root/ /
 
 # http://support.feed-the-beast.com/t/ftb-horizons2-almost-always-crash-when-using-inventory/16176
-RUN apk add curl \
- && curl -jkSL -o /opt/minecraft/mods/AsieLib-1.7.10-0.4.2.jar "http://files.vex.tty.sh/AsieLib/AsieLib-1.7.10-0.4.2.jar" \
- && curl -jkSL -o /opt/minecraft/mods/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
- && apk del curl \
- && rm /opt/minecraft/mods/AsieLib-1.7.10-0.4.0.jar \
-       /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar
+RUN rm /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar
 
-# Still broken; server won't even start.
-RUN rm /opt/minecraft/mods/Computronics-1.7.10-1.5.5.jar
+# TODO: Try to get AE2
+#RUN apk add curl \
+# && curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
 
 ENV MINECRAFT_HOME /opt/minecraft
 ENV MINECRAFT_OPTS -server -Xms512m -Xmx2048M -d64 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
