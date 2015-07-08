@@ -46,6 +46,10 @@ RUN rm /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar
 RUN apk add curl \
  && curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
 
+# so, maybe it's NEI that's broken.
+RUN rm /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.4.107-universal.jar \
+ && curl -jkSL -o /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.5.111-universal.jar "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.111/NotEnoughItems-1.7.10-1.0.5.111-universal.jar"
+
 ENV MINECRAFT_HOME /opt/minecraft
 ENV MINECRAFT_OPTS -server -Xms512m -Xmx2048M -d64 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
 ENV WORLD_DIR /var/lib/minecraft
