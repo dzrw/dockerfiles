@@ -48,7 +48,9 @@ RUN apk add curl \
 
 # so, maybe it's NEI that's broken.
 RUN rm /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.4.107-universal.jar \
- && curl -jkSL -o /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.5.111-universal.jar "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.111/NotEnoughItems-1.7.10-1.0.5.111-universal.jar"
+ && curl -jkSL -o /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.5.111-universal.jar "http://chickenbones.net/maven/codechicken/NotEnoughItems/1.7.10-1.0.5.111/NotEnoughItems-1.7.10-1.0.5.111-universal.jar" \
+ && rm /opt/minecraft/mods/CodeChickenCore-1.7.10-1.0.6.43-universal.jar \
+ && curl -jkSL -o /opt/minecraft/mods/CodeChickenCore-1.7.10-1.0.7.46-universal.jar "http://chickenbones.net/maven/codechicken/CodeChickenCore/1.7.10-1.0.7.46/CodeChickenCore-1.7.10-1.0.7.46-universal.jar"
 
 ENV MINECRAFT_HOME /opt/minecraft
 ENV MINECRAFT_OPTS -server -Xms512m -Xmx2048M -d64 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
