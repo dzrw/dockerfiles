@@ -50,7 +50,7 @@ EXPOSE 25565
 
 VOLUME ["/opt/minecraft", "/var/lib/minecraft"]
 
-ENTRYPOINT ["/bin/sh -c"]
+ENTRYPOINT ["sh"]
 
 CMD ["/usr/local/bin/minecraft"]
 
