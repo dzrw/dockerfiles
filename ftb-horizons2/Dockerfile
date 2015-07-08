@@ -43,7 +43,7 @@ COPY root/ /
 RUN apk add curl \
  && curl -jkSL -o /opt/minecraft/mods/AsieLib-1.7.10-0.4.2.jar "http://files.vex.tty.sh/AsieLib/AsieLib-1.7.10-0.4.2.jar" \
  && curl -jkSL -o /opt/minecraft/mods/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
- && apk del curl
+ && apk del curl \
  && rm /opt/minecraft/mods/AsieLib-1.7.10-0.4.0.jar \
        /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar \
 
