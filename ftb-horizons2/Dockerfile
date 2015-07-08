@@ -42,9 +42,9 @@ COPY root/ /
 # http://support.feed-the-beast.com/t/ftb-horizons2-almost-always-crash-when-using-inventory/16176
 RUN rm /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar
 
-# TODO: Try to get AE2
-#RUN apk add curl \
-# && curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
+# add ae2 to the modpack - this'll work, right?
+RUN apk add curl \
+ && curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
 
 ENV MINECRAFT_HOME /opt/minecraft
 ENV MINECRAFT_OPTS -server -Xms512m -Xmx2048M -d64 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
