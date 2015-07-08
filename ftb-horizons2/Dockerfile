@@ -41,8 +41,8 @@ COPY root/ /
 
 # http://support.feed-the-beast.com/t/ftb-horizons2-almost-always-crash-when-using-inventory/16176
 RUN apk add curl \
- && curl -jkSL -o /opt/minecraft/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
- && rm Computronics-1.7.10-1.5.0.jar \
+ && curl -jkSL -o /opt/minecraft/mods/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
+ && rm /opt/minecraft/mods/Computronics-1.7.10-1.5.0.jar \
  && apk del curl
 
 ENV MINECRAFT_HOME /opt/minecraft
