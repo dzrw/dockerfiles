@@ -40,8 +40,10 @@ RUN		cd /tmp \
 COPY root/ /
 
 # http://support.feed-the-beast.com/t/ftb-horizons2-almost-always-crash-when-using-inventory/16176
-RUN curl -jkSL -o /opt/minecraft/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
- && rm Computronics-1.7.10-1.5.0.jar
+RUN apk add curl \
+ && curl -jkSL -o /opt/minecraft/Computronics-1.7.10-1.5.5.jar "http://files.vex.tty.sh/Computronics/Computronics-1.7.10-1.5.5.jar" \
+ && rm Computronics-1.7.10-1.5.0.jar \
+ && apk del curl
 
 ENV MINECRAFT_HOME /opt/minecraft
 ENV MINECRAFT_OPTS -server -Xms512m -Xmx2048M -d64 -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=2 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10
