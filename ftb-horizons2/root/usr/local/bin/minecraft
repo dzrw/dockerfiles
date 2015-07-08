@@ -1,5 +1,8 @@
 #! /bin/sh
 
+# Remove this busted mod
+rm /opt/minecraft/mods/Headcrumbs-1.3.1.jar | true
+
 # ensure that the service user can write logs, configs, etc.
 chown -R ftb:ftb $MINECRAFT_HOME
 
