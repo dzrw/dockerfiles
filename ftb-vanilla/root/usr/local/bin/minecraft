@@ -4,6 +4,15 @@
 chown -R ftb:ftb $MINECRAFT_HOME
 
 cd $MINECRAFT_HOME
+
+# remove NEI-related addons
+rm mods/neiaddons*.jar
+rm mods/NEIIntegration*.jar
+rm mods/NotEnoughItems*.jar
+rm mods/CodeChickenCore*.jar
+rm mods/1.7.10/CodeChickenLib*.jar
+
+# launch server
 echo "Running Minecraft"
 echo "MINECRAFT_OPTS: $MINECRAFT_OPTS"
 exec gosu ftb java $MINECRAFT_OPTS -jar $MINECRAFT_STARTUP_JAR nogui

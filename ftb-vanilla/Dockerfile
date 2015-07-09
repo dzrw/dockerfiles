@@ -51,9 +51,3 @@ ENTRYPOINT ["sh"]
 
 CMD ["/usr/local/bin/minecraft"]
 
-RUN rm /opt/minecraft/mods/neiaddons-1.12.9.32-mc1.7.10.jar \
-       /opt/minecraft/mods/NEIIntegration-MC1.7.10-1.0.10.jar \
-       /opt/minecraft/mods/NotEnoughItems-1.7.10-1.0.4.107-universal.jar \
-       /opt/minecraft/mods/CodeChickenCore-1.7.10-1.0.6.43-universal.jar
-       
-
