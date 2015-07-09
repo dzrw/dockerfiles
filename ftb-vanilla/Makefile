@@ -1,8 +1,8 @@
 SHELL=/bin/bash
 
-REPOSITORY := politician/ftb-infinity
+REPOSITORY := politician/ftb-vanilla
 TAG ?= latest
-NAME ?= ftb_infinity
+NAME ?= ftb_vanilla
 
 .PHONY: all build
 
