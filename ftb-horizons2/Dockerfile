@@ -34,14 +34,12 @@ RUN		cd /tmp \
  				/opt/minecraft/FTBInstall.sh \
  				/opt/minecraft/ServerStart.bat \
  				/opt/minecraft/ServerStart.sh \
- &&		rm -rf	/tmp/* \
- &&		apk del curl
+ &&		rm -rf	/tmp/*
 
 COPY root/ /
 
 # add ae2 to the modpack - this'll work, right?
-RUN apk add curl \
- && curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
+RUN curl -jkSL -o /opt/minecraft/mods/appliedenergistics2-rv2-stable-10.jar "http://ae-mod.info/builds/appliedenergistics2-rv2-stable-10.jar"
 
 # NEI is broken. You have to open inventory in a singleplayer game before joining a multiplayer game.
 # The bug has apparently existed for several years, and people continue to rediscover it.
