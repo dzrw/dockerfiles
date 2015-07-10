@@ -9,6 +9,7 @@ cd $MINECRAFT_HOME
 rm mods/neiaddons*.jar
 rm mods/NEIIntegration*.jar
 rm mods/NotEnoughItems*.jar
+rm mods/NotEnoughResources*.jar
 #rm mods/CodeChickenCore*.jar
 #rm mods/1.7.10/CodeChickenLib*.jar
 
